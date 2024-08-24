@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great lecturer, but the exams were tough. Really makes you think."
+      },
+      {
+        "professor": "Prof. Emily Davis",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Passionate and knowledgeable. Her enthusiasm is contagious!"
+      },
+      {
+        "professor": "Dr. Michael Johnson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Clear explanations, but sometimes goes too fast. Needs better office hours."
+      },
+      {
+        "professor": "Prof. Sarah Lee",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Not very approachable and the labs were poorly organized."
+      },
+      {
+        "professor": "Dr. David Brown",
+        "subject": "History",
+        "stars": 4,
+        "review": "Engaging lectures with lots of stories, but too many readings."
+      },
+      {
+        "professor": "Prof. Jessica Wilson",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Amazing professor! She made the readings so much fun."
+      },
+      {
+        "professor": "Dr. Thomas Miller",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Knows his stuff, but the assignments were really challenging."
+      },
+      {
+        "professor": "Prof. Amanda Martinez",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Interesting discussions, but the grading is harsh."
+      },
+      {
+        "professor": "Dr. Robert Garcia",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Clear and concise. The best professor I've had!"
+      },
+      {
+        "professor": "Prof. Lisa Taylor",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Deep thinker, but sometimes hard to follow. Exams were fair."
+      },
+      {
+        "professor": "Dr. Mark Anderson",
+        "subject": "Political Science",
+        "stars": 4,
+        "review": "Engaging and well-prepared, but expect a lot of reading."
+      },
+      {
+        "professor": "Prof. Karen Thomas",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "She cares about her students and the material is very interesting."
+      },
+      {
+        "professor": "Dr. James White",
+        "subject": "Engineering",
+        "stars": 2,
+        "review": "Very technical and not very engaging. Hard to keep up."
+      },
+      {
+        "professor": "Prof. Jennifer Harris",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Her passion for art is infectious. Loved every lecture."
+      },
+      {
+        "professor": "Dr. William Clark",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Good at explaining concepts, but the homework was overwhelming."
+      },
+      {
+        "professor": "Prof. Michelle Lewis",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Inspiring and knowledgeable, but the workload was heavy."
+      },
+      {
+        "professor": "Dr. Christopher Walker",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Great lectures, but could use more hands-on activities."
+      },
+      {
+        "professor": "Prof. Kimberly Young",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Very informative and made the subject really interesting."
+      },
+      {
+        "professor": "Dr. Steven King",
+        "subject": "Literature",
+        "stars": 2,
+        "review": "Dry lectures and unclear expectations. Not recommended."
+      },
+      {
+        "professor": "Prof. Angela Allen",
+        "subject": "Film Studies",
+        "stars": 5,
+        "review": "Her passion for films shines through. Best class I've taken!"
+      }
+    ]
+  }
+  
